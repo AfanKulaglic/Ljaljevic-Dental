@@ -1,0 +1,10 @@
+# robots.txt — Ljaljević Dental
+User-agent: *
+Allow: /
+
+# Sitemap lokacija
+Sitemap: https://ljaljevic-dental.ba/sitemap.xml
+
+# Blokiraj build fajlove
+Disallow: /src/
+Disallow: /node_modules/

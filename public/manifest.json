@@ -1,0 +1,42 @@
+{
+  "name": "Ljaljević Dental — Stomatološka ordinacija Sarajevo",
+  "short_name": "Ljaljević Dental",
+  "description": "Specijalistička stomatološka ordinacija u Sarajevu. Protetika, krunice, estetska stomatologija.",
+  "lang": "bs",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf7f2",
+  "theme_color": "#0d7560",
+  "categories": ["medical", "health"],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Zakazi pregled",
+      "short_name": "Zakazi",
+      "description": "Zakažite termin u ordinaciji",
+      "url": "/#zakazi"
+    },
+    {
+      "name": "Usluge",
+      "short_name": "Usluge",
+      "description": "Pogledajte naše usluge",
+      "url": "/#usluge"
+    },
+    {
+      "name": "Kontakt",
+      "short_name": "Kontakt",
+      "description": "Kontaktirajte ordinaciju",
+      "url": "/#kontakt"
+    }
+  ]
+}
